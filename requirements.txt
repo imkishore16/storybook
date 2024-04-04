@@ -1,0 +1,24 @@
+pandas
+python-dotenv
+
+# UI
+gradio
+
+# editor
+ffmpeg
+ffmpeg-python
+
+
+# db
+tinymongo
+tinydb
+
+# LLM
+langchain
+openai
+langchain_openai 
+
+
+pyttsx3
+
+-e .
